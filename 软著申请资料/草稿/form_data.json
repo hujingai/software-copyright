@@ -1,0 +1,17 @@
+{
+  "software_name": "在线互动教学与作业管理平台",
+  "short_name": "教学作业平台",
+  "version": "V1.0",
+  "completion_date": "2026-06-17",
+  "publish_date": "（未发表）",
+  "hardware_env": "处理器：Intel Core i5及以上；内存：8GB及以上；硬盘：256GB及以上可用空间",
+  "software_env": "Windows 10 / Chrome浏览器 90+ / Nginx Web服务器",
+  "programming_language": "JavaScript、HTML、CSS",
+  "source_lines": 5206,
+  "right_scope": "全部权利",
+  "owner_name": "苟佳格",
+  "owner_id_type": "身份证",
+  "owner_id_number": "",
+  "owner_address": "",
+  "owner_phone": ""
+}
